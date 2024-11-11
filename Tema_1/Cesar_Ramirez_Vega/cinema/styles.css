@@ -65,6 +65,14 @@ header {
   padding-block: 40px;
 }
 
+.cinema-logo {
+  max-width: 60px;
+}
+
+.cinema-logo__arrow {
+  color: var(--primary-color);
+}
+
 .cinema-seats-container {
   display: grid;
   gap: 10px;
